@@ -1,0 +1,8 @@
+~$*
+.~*
+*.bak
+/data_sql/*.sql
+pars.php
+/work/
+
+out.txt
